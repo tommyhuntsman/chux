@@ -6,3 +6,11 @@ head {
   height: 25px;
   background-color: darkgrey;
 }
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-block;
+}
