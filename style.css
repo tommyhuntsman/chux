@@ -14,3 +14,7 @@ li {
 li a {
   display: inline-block;
 }
+
+.ss-footer {
+  display: none;
+}
