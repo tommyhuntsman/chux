@@ -29,7 +29,9 @@ height:30px;
   text-decoration:none
 }
 
-style="display:inline; font-family:rubik; font-size:21px"
+/* style="display:inline; font-family:rubik; font-size:21px"
+style="display:inline;list-style-type:none;margin:0;padding:0;overflow:hidden;text-decoration:none"
+*/
 
 nav {
   width:600px;
