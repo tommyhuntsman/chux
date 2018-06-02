@@ -17,16 +17,20 @@ height:30px;
   display:inline;
   text-align:center;
   padding: 1px 25px;
-  text-decoration:none
+  text-decoration:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
 }
 
 /* style="display:inline; font-family:rubik; font-size:21px"
-style="display:inline;list-style-type:none;margin:0;padding:0;overflow:hidden;text-decoration:none"
+style="display:inline;list-style-type:none;text-decoration:none"
 */
 
 nav {
   width:600px;
-  margin:0 auto
+  margin:0 auto;
+  display:inline;
 }
 
 .navlink {
@@ -37,7 +41,7 @@ nav {
   display:inline;
   text-align:center;
   padding: 1px 25px;
-  text-decoration:none"
+  text-decoration:none;
 }
 
 
