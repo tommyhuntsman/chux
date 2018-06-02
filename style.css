@@ -16,7 +16,12 @@ height:30px;
   left:0; 
   border-bottom:thick solid pink;"
 }
-  
+
+nav {
+  width:900px;
+  margin:0 auto
+}
+
 li {
   float: left;
 }
