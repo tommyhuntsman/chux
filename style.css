@@ -6,7 +6,8 @@ height:30px;
   position:fixed; 
   top:0;
   left:0; 
-  border-bottom:2px solid pink;"
+  border-bottom:2px solid pink;
+  magin: 0 auto
 }
 
 #logo {
